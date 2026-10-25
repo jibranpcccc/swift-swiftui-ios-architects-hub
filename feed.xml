@@ -4,10 +4,17 @@
     <title>Swift &amp; SwiftUI iOS Architects Hub</title>
     <link>https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 06:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:04:54 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-forum-20261016-1-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:04:54 GMT</pubDate>
+      <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-forum-20261016-1-2026-10-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-forum-20260925-1-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 06:04:40 GMT</pubDate>
       <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: The world's largest repository of solved Python questions, debugging threads, and code snippets.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
-      <link>https://github.com/vercel/next.js/discussions</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-github-20260924-1-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 06:04:29 GMT</pubDate>
-      <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
     </item>
   </channel>
 </rss>
