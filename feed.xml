@@ -4,10 +4,17 @@
     <title>Swift &amp; SwiftUI iOS Architects Hub</title>
     <link>https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:04:43 GMT</lastBuildDate>
     <atom:link href="https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                <item>
+                                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-forum-20261016-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:04:43 GMT</pubDate>
+      <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-forum-20261016-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-discord-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:29:01 GMT</pubDate>
       <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: Dedicated server for cloud-native infrastructure engineers building, deploying, and scaling on Kubernetes.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/aws Cloud Architects (Reddit)</title>
-      <link>https://www.reddit.com/r/aws/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/swift-swiftui-ios-architects-hub/#swift-swiftui-ios-architects-hub-reddit-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:05:05 GMT</pubDate>
-      <description>Newly verified community added to Swift &amp; SwiftUI iOS Architects Hub: Community of AWS certified solutions architects and engineers discussing ECS, Lambda, IAM, and cost optimization.</description>
     </item>
   </channel>
 </rss>
